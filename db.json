@@ -1,0 +1,20 @@
+{
+{
+	"name":"Java Script",
+	"author":"XYZ",
+	"price":1234
+},
+
+{
+	"name":"Mongo DB",
+	"author":"ABX",
+	"price":8956
+
+},
+
+{
+	"name":"Java",
+	"author":"Test",
+	"price":7878
+}
+}
